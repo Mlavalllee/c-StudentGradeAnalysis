@@ -1,0 +1,15 @@
+C:\Users\m.lavallee3\source\repos\Sudent Grade Analysis\Sudent Grade Analysis\bin\Debug\net6.0\Sudent Grade Analysis.exe
+C:\Users\m.lavallee3\source\repos\Sudent Grade Analysis\Sudent Grade Analysis\bin\Debug\net6.0\Sudent Grade Analysis.deps.json
+C:\Users\m.lavallee3\source\repos\Sudent Grade Analysis\Sudent Grade Analysis\bin\Debug\net6.0\Sudent Grade Analysis.runtimeconfig.json
+C:\Users\m.lavallee3\source\repos\Sudent Grade Analysis\Sudent Grade Analysis\bin\Debug\net6.0\Sudent Grade Analysis.dll
+C:\Users\m.lavallee3\source\repos\Sudent Grade Analysis\Sudent Grade Analysis\bin\Debug\net6.0\ref\Sudent Grade Analysis.dll
+C:\Users\m.lavallee3\source\repos\Sudent Grade Analysis\Sudent Grade Analysis\bin\Debug\net6.0\Sudent Grade Analysis.pdb
+C:\Users\m.lavallee3\source\repos\Sudent Grade Analysis\Sudent Grade Analysis\obj\Debug\net6.0\Sudent Grade Analysis.csproj.AssemblyReference.cache
+C:\Users\m.lavallee3\source\repos\Sudent Grade Analysis\Sudent Grade Analysis\obj\Debug\net6.0\Sudent Grade Analysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.lavallee3\source\repos\Sudent Grade Analysis\Sudent Grade Analysis\obj\Debug\net6.0\Sudent Grade Analysis.AssemblyInfoInputs.cache
+C:\Users\m.lavallee3\source\repos\Sudent Grade Analysis\Sudent Grade Analysis\obj\Debug\net6.0\Sudent Grade Analysis.AssemblyInfo.cs
+C:\Users\m.lavallee3\source\repos\Sudent Grade Analysis\Sudent Grade Analysis\obj\Debug\net6.0\Sudent Grade Analysis.csproj.CoreCompileInputs.cache
+C:\Users\m.lavallee3\source\repos\Sudent Grade Analysis\Sudent Grade Analysis\obj\Debug\net6.0\Sudent Grade Analysis.dll
+C:\Users\m.lavallee3\source\repos\Sudent Grade Analysis\Sudent Grade Analysis\obj\Debug\net6.0\ref\Sudent Grade Analysis.dll
+C:\Users\m.lavallee3\source\repos\Sudent Grade Analysis\Sudent Grade Analysis\obj\Debug\net6.0\Sudent Grade Analysis.pdb
+C:\Users\m.lavallee3\source\repos\Sudent Grade Analysis\Sudent Grade Analysis\obj\Debug\net6.0\Sudent Grade Analysis.genruntimeconfig.cache
